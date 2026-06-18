@@ -1,6 +1,6 @@
 # All prompts
 
-50 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
+56 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
 
 [← Back to the gallery](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts)
 
@@ -10,10 +10,16 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
 
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
+| [**Aurora**](./aurora/) | Gradient pitch deck for SaaS | Bold, Tech | Sora + Spline Sans Mono |
 | [**Demo Day**](./demo-day/) | Three minutes, one idea per slide | Bold, Minimal | Poppins |
+| [**Hearth**](./hearth/) | Warm, story-led brand pitch | Warm, Minimal | Fraunces + Karla |
 | [**Holo**](./holo/) | Iridescent, but disciplined | Playful, Calm | Sora + Inter |
 | [**Midnight Pitch**](./midnight-pitch/) | Make investors lean in | Dark, Bold | Sora + Inter |
 | [**Monolith**](./monolith/) | Expensive silence | Minimal, Dark | Jost + DM Mono |
+| [**Runway**](./runway/) | Clean, light investor pitch deck | Minimal, Corporate | Bricolage Grotesque + Spline Sans Mono |
+| [**Spark**](./spark/) | Bold pink pitch for consumer apps | Bold, Playful | Archivo Black + Archivo |
+| [**Term Sheet**](./term-sheet/) | The institutional VC framework deck | Corporate, Minimal | Source Serif 4 + IBM Plex Sans |
+| [**Traction**](./traction/) | Let the numbers pitch | Minimal, Tech | Archivo + JetBrains Mono |
 
 ### Business & strategy
 

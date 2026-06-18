@@ -7,7 +7,7 @@
 Free presentation design systems you paste into ChatGPT or Claude.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-50-ff5533.svg)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/prompts-56-ff5533.svg)](prompts/README.md)
 [![Live site](https://img.shields.io/badge/live-slidespeak.co-111111.svg)](https://slidespeak.co/slide-design-prompts)
 
 [**Browse all prompts**](prompts/README.md) &nbsp;·&nbsp; [**Live site**](https://slidespeak.co/slide-design-prompts)
@@ -22,7 +22,7 @@ AI chat tools write decent slide content. Design is where they fall apart: clip-
 
 Each theme here is **one prompt** that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers, and every slide matches.
 
-**50 themes** across **7 use-case categories** and **9 visual styles**.
+**56 themes** across **7 use-case categories** and **9 visual styles**.
 
 ## How to use
 
@@ -53,11 +53,25 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/aurora/"><img src="prompts/aurora/previews/0.webp" alt="Aurora" width="300"></a><br>
+      <a href="prompts/aurora/"><b>Aurora</b></a><br>
+      <sub>Gradient pitch deck for SaaS</sub><br>
+      <sub><i>Bold · Tech</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/demo-day/"><img src="prompts/demo-day/previews/0.webp" alt="Demo Day" width="300"></a><br>
       <a href="prompts/demo-day/"><b>Demo Day</b></a><br>
       <sub>Three minutes, one idea per slide</sub><br>
       <sub><i>Bold · Minimal</i></sub>
     </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/hearth/"><img src="prompts/hearth/previews/0.webp" alt="Hearth" width="300"></a><br>
+      <a href="prompts/hearth/"><b>Hearth</b></a><br>
+      <sub>Warm, story-led brand pitch</sub><br>
+      <sub><i>Warm · Minimal</i></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/holo/"><img src="prompts/holo/previews/0.webp" alt="Holo" width="300"></a><br>
       <a href="prompts/holo/"><b>Holo</b></a><br>
@@ -70,13 +84,39 @@ Themes that help you raise money. Dark backgrounds, big numbers, and layouts tha
       <sub>Make investors lean in</sub><br>
       <sub><i>Dark · Bold</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/monolith/"><img src="prompts/monolith/previews/0.webp" alt="Monolith" width="300"></a><br>
       <a href="prompts/monolith/"><b>Monolith</b></a><br>
       <sub>Expensive silence</sub><br>
       <sub><i>Minimal · Dark</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/runway/"><img src="prompts/runway/previews/0.webp" alt="Runway" width="300"></a><br>
+      <a href="prompts/runway/"><b>Runway</b></a><br>
+      <sub>Clean, light investor pitch deck</sub><br>
+      <sub><i>Minimal · Corporate</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/spark/"><img src="prompts/spark/previews/0.webp" alt="Spark" width="300"></a><br>
+      <a href="prompts/spark/"><b>Spark</b></a><br>
+      <sub>Bold pink pitch for consumer apps</sub><br>
+      <sub><i>Bold · Playful</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/term-sheet/"><img src="prompts/term-sheet/previews/0.webp" alt="Term Sheet" width="300"></a><br>
+      <a href="prompts/term-sheet/"><b>Term Sheet</b></a><br>
+      <sub>The institutional VC framework deck</sub><br>
+      <sub><i>Corporate · Minimal</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/traction/"><img src="prompts/traction/previews/0.webp" alt="Traction" width="300"></a><br>
+      <a href="prompts/traction/"><b>Traction</b></a><br>
+      <sub>Let the numbers pitch</sub><br>
+      <sub><i>Minimal · Tech</i></sub>
     </td>
   </tr>
 </table>
