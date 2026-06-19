@@ -7,7 +7,7 @@
 Free presentation design systems you paste into ChatGPT or Claude.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-61-ff5533.svg)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/prompts-67-ff5533.svg)](prompts/README.md)
 [![Live site](https://img.shields.io/badge/live-slidespeak.co-111111.svg)](https://slidespeak.co/slide-design-prompts)
 
 [**Browse all prompts**](prompts/README.md) &nbsp;·&nbsp; [**Live site**](https://slidespeak.co/slide-design-prompts)
@@ -22,7 +22,7 @@ AI chat tools write decent slide content. Design is where they fall apart: clip-
 
 Each theme here is **one prompt** that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers, and every slide matches.
 
-**61 themes** across **7 use-case categories** and **9 visual styles**.
+**67 themes** across **7 use-case categories** and **9 visual styles**.
 
 ## How to use
 
@@ -201,24 +201,36 @@ Themes with personality for campaign plans, brand decks and creative reviews.
       <sub><i>Bold · Playful</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/bubblegum/"><img src="prompts/bubblegum/previews/0.webp" alt="Bubblegum" width="300"></a><br>
+      <a href="prompts/bubblegum/"><b>Bubblegum</b></a><br>
+      <sub>Y2K sparkle with a system</sub><br>
+      <sub><i>Playful · Bold</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/memphis/"><img src="prompts/memphis/previews/0.webp" alt="Memphis" width="300"></a><br>
       <a href="prompts/memphis/"><b>Memphis</b></a><br>
       <sub>Serious work, unserious style</sub><br>
       <sub><i>Playful · Bold</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/outrun/"><img src="prompts/outrun/previews/0.webp" alt="Outrun" width="300"></a><br>
       <a href="prompts/outrun/"><b>Outrun</b></a><br>
       <sub>Straight out of 1986</sub><br>
       <sub><i>Playful · Dark</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/polaroid/"><img src="prompts/polaroid/previews/0.webp" alt="Polaroid" width="300"></a><br>
       <a href="prompts/polaroid/"><b>Polaroid</b></a><br>
       <sub>Pinned to the wall</sub><br>
       <sub><i>Warm · Playful</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/sorbet/"><img src="prompts/sorbet/previews/0.webp" alt="Sorbet" width="300"></a><br>
+      <a href="prompts/sorbet/"><b>Sorbet</b></a><br>
+      <sub>Soft pastels, kept tasteful</sub><br>
+      <sub><i>Playful · Calm</i></sub>
     </td>
   </tr>
 </table>
@@ -303,6 +315,20 @@ Typography-led themes for portfolios, studios and personal work.
       <sub><i>Playful · Warm</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/coquette/"><img src="prompts/coquette/previews/0.webp" alt="Coquette" width="300"></a><br>
+      <a href="prompts/coquette/"><b>Coquette</b></a><br>
+      <sub>Ribbons, blush and a cherry kiss</sub><br>
+      <sub><i>Elegant · Playful</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/dark-academia/"><img src="prompts/dark-academia/previews/0.webp" alt="Dark Academia" width="300"></a><br>
+      <a href="prompts/dark-academia/"><b>Dark Academia</b></a><br>
+      <sub>Candlelit library, rare-books society</sub><br>
+      <sub><i>Elegant · Dark</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/logline/"><img src="prompts/logline/previews/0.webp" alt="Logline" width="300"></a><br>
       <a href="prompts/logline/"><b>Logline</b></a><br>
       <sub>The pitch in one page</sub><br>
@@ -314,19 +340,25 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>Mood, tone and frame</sub><br>
       <sub><i>Elegant · Dark</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/manuscript/"><img src="prompts/manuscript/previews/0.webp" alt="Manuscript" width="300"></a><br>
       <a href="prompts/manuscript/"><b>Manuscript</b></a><br>
       <sub>Slides before print</sub><br>
       <sub><i>Elegant · Warm</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/marquee/"><img src="prompts/marquee/previews/0.webp" alt="Marquee" width="300"></a><br>
       <a href="prompts/marquee/"><b>Marquee</b></a><br>
       <sub>Make it an occasion</sub><br>
       <sub><i>Elegant · Dark</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/oat/"><img src="prompts/oat/previews/0.webp" alt="Oat" width="300"></a><br>
+      <a href="prompts/oat/"><b>Oat</b></a><br>
+      <sub>Warm neutrals, quiet arches, expensive calm</sub><br>
+      <sub><i>Minimal · Calm</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="prompts/one-sheet/"><img src="prompts/one-sheet/previews/0.webp" alt="One Sheet" width="300"></a><br>
@@ -442,6 +474,12 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
       <a href="prompts/varsity/"><b>Varsity</b></a><br>
       <sub>Wear the colors</sub><br>
       <sub><i>Bold · Warm</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/wildflower/"><img src="prompts/wildflower/previews/0.webp" alt="Wildflower" width="300"></a><br>
+      <a href="prompts/wildflower/"><b>Wildflower</b></a><br>
+      <sub>Hand-gathered, loosely arranged</sub><br>
+      <sub><i>Warm · Calm</i></sub>
     </td>
   </tr>
 </table>
