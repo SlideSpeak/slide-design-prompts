@@ -7,7 +7,7 @@
 Free presentation design systems you paste into ChatGPT or Claude.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-56-ff5533.svg)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/prompts-61-ff5533.svg)](prompts/README.md)
 [![Live site](https://img.shields.io/badge/live-slidespeak.co-111111.svg)](https://slidespeak.co/slide-design-prompts)
 
 [**Browse all prompts**](prompts/README.md) &nbsp;·&nbsp; [**Live site**](https://slidespeak.co/slide-design-prompts)
@@ -22,7 +22,7 @@ AI chat tools write decent slide content. Design is where they fall apart: clip-
 
 Each theme here is **one prompt** that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers, and every slide matches.
 
-**56 themes** across **7 use-case categories** and **9 visual styles**.
+**61 themes** across **7 use-case categories** and **9 visual styles**.
 
 ## How to use
 
@@ -277,6 +277,12 @@ Typography-led themes for portfolios, studios and personal work.
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/atelier/"><img src="prompts/atelier/previews/0.webp" alt="Atelier" width="300"></a><br>
+      <a href="prompts/atelier/"><b>Atelier</b></a><br>
+      <sub>Built like a blueprint</sub><br>
+      <sub><i>Minimal · Elegant</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/basel/"><img src="prompts/basel/previews/0.webp" alt="Basel" width="300"></a><br>
       <a href="prompts/basel/"><b>Basel</b></a><br>
       <sub>Loud type, nothing else</sub><br>
@@ -288,11 +294,25 @@ Typography-led themes for portfolios, studios and personal work.
       <sub>Quiet on set</sub><br>
       <sub><i>Elegant · Dark</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="prompts/collage/"><img src="prompts/collage/previews/0.webp" alt="Collage" width="300"></a><br>
       <a href="prompts/collage/"><b>Collage</b></a><br>
       <sub>Scissors first, layout second</sub><br>
       <sub><i>Playful · Warm</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/logline/"><img src="prompts/logline/previews/0.webp" alt="Logline" width="300"></a><br>
+      <a href="prompts/logline/"><b>Logline</b></a><br>
+      <sub>The pitch in one page</sub><br>
+      <sub><i>Minimal · Elegant</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/lookbook/"><img src="prompts/lookbook/previews/0.webp" alt="Lookbook" width="300"></a><br>
+      <a href="prompts/lookbook/"><b>Lookbook</b></a><br>
+      <sub>Mood, tone and frame</sub><br>
+      <sub><i>Elegant · Dark</i></sub>
     </td>
   </tr>
   <tr>
@@ -309,10 +329,24 @@ Typography-led themes for portfolios, studios and personal work.
       <sub><i>Elegant · Dark</i></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="prompts/one-sheet/"><img src="prompts/one-sheet/previews/0.webp" alt="One Sheet" width="300"></a><br>
+      <a href="prompts/one-sheet/"><b>One Sheet</b></a><br>
+      <sub>Top of the billing</sub><br>
+      <sub><i>Bold · Dark</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
       <a href="prompts/origami/"><img src="prompts/origami/previews/0.webp" alt="Origami" width="300"></a><br>
       <a href="prompts/origami/"><b>Origami</b></a><br>
       <sub>Folded, not decorated</sub><br>
       <sub><i>Minimal · Calm</i></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="prompts/passepartout/"><img src="prompts/passepartout/previews/0.webp" alt="Passepartout" width="300"></a><br>
+      <a href="prompts/passepartout/"><b>Passepartout</b></a><br>
+      <sub>A gallery on every slide</sub><br>
+      <sub><i>Elegant · Calm</i></sub>
     </td>
   </tr>
 </table>

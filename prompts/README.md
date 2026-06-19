@@ -1,6 +1,6 @@
 # All prompts
 
-56 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
+61 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
 
 [← Back to the gallery](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts)
 
@@ -67,12 +67,17 @@ Typography-led themes for portfolios, studios and personal work.
 
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
+| [**Atelier**](./atelier/) | Built like a blueprint | Minimal, Elegant | Jost + Spline Sans Mono |
 | [**Basel**](./basel/) | Loud type, nothing else | Bold, Minimal | Archivo |
 | [**Cinema**](./cinema/) | Quiet on set | Elegant, Dark | Cinzel + Space Mono |
 | [**Collage**](./collage/) | Scissors first, layout second | Playful, Warm | Bricolage Grotesque + Work Sans |
+| [**Logline**](./logline/) | The pitch in one page | Minimal, Elegant | Newsreader + Courier Prime |
+| [**Lookbook**](./lookbook/) | Mood, tone and frame | Elegant, Dark | Playfair Display + Archivo |
 | [**Manuscript**](./manuscript/) | Slides before print | Elegant, Warm | EB Garamond |
 | [**Marquee**](./marquee/) | Make it an occasion | Elegant, Dark | Cinzel + Marcellus |
+| [**One Sheet**](./one-sheet/) | Top of the billing | Bold, Dark | Anton + Barlow Condensed |
 | [**Origami**](./origami/) | Folded, not decorated | Minimal, Calm | Tenor Sans + Karla |
+| [**Passepartout**](./passepartout/) | A gallery on every slide | Elegant, Calm | Cormorant Garamond + Tenor Sans |
 
 ### Education & research
 
