@@ -1,6 +1,6 @@
 # All prompts
 
-61 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
+67 slide design prompts, grouped by use case. Each links to its full page: preview, the prompt, palette, fonts and notes.
 
 [← Back to the gallery](../README.md) · [Live site](https://slidespeak.co/slide-design-prompts)
 
@@ -44,9 +44,11 @@ Themes with personality for campaign plans, brand decks and creative reviews.
 | Theme | Tagline | Style | Fonts |
 | --- | --- | --- | --- |
 | [**Billboard**](./billboard/) | One color, one line | Bold, Playful | Anton |
+| [**Bubblegum**](./bubblegum/) | Y2K sparkle with a system | Playful, Bold | Baloo 2 + Nunito |
 | [**Memphis**](./memphis/) | Serious work, unserious style | Playful, Bold | Baloo 2 + Nunito |
 | [**Outrun**](./outrun/) | Straight out of 1986 | Playful, Dark | Orbitron + Exo 2 |
 | [**Polaroid**](./polaroid/) | Pinned to the wall | Warm, Playful | Playfair Display + Work Sans |
+| [**Sorbet**](./sorbet/) | Soft pastels, kept tasteful | Playful, Calm | Baloo 2 + Quicksand |
 
 ### Tech & product
 
@@ -71,10 +73,13 @@ Typography-led themes for portfolios, studios and personal work.
 | [**Basel**](./basel/) | Loud type, nothing else | Bold, Minimal | Archivo |
 | [**Cinema**](./cinema/) | Quiet on set | Elegant, Dark | Cinzel + Space Mono |
 | [**Collage**](./collage/) | Scissors first, layout second | Playful, Warm | Bricolage Grotesque + Work Sans |
+| [**Coquette**](./coquette/) | Ribbons, blush and a cherry kiss | Elegant, Playful | Cormorant Garamond + Jost |
+| [**Dark Academia**](./dark-academia/) | Candlelit library, rare-books society | Elegant, Dark | Cinzel + EB Garamond |
 | [**Logline**](./logline/) | The pitch in one page | Minimal, Elegant | Newsreader + Courier Prime |
 | [**Lookbook**](./lookbook/) | Mood, tone and frame | Elegant, Dark | Playfair Display + Archivo |
 | [**Manuscript**](./manuscript/) | Slides before print | Elegant, Warm | EB Garamond |
 | [**Marquee**](./marquee/) | Make it an occasion | Elegant, Dark | Cinzel + Marcellus |
+| [**Oat**](./oat/) | Warm neutrals, quiet arches, expensive calm | Minimal, Calm | Fraunces + Jost |
 | [**One Sheet**](./one-sheet/) | Top of the billing | Bold, Dark | Anton + Barlow Condensed |
 | [**Origami**](./origami/) | Folded, not decorated | Minimal, Calm | Tenor Sans + Karla |
 | [**Passepartout**](./passepartout/) | A gallery on every slide | Elegant, Calm | Cormorant Garamond + Tenor Sans |
@@ -98,6 +103,7 @@ Easy-to-read themes for lectures, research and reports. Built so people can actu
 | [**Syllabus**](./syllabus/) | The outline is the design | Calm, Playful | Poppins + DM Mono |
 | [**Trailhead**](./trailhead/) | Learning, one mile at a time | Warm, Calm | Fraunces + Karla + Space Mono |
 | [**Varsity**](./varsity/) | Wear the colors | Bold, Warm | Archivo Black + Barlow |
+| [**Wildflower**](./wildflower/) | Hand-gathered, loosely arranged | Warm, Calm | EB Garamond + Karla |
 
 ### Finance & consulting
 
